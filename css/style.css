@@ -964,6 +964,11 @@ hr {
     height: auto;
   }
 }
+@media (max-width: 380px) {
+  .project .btn-pro {
+    width: auto !important;
+  }
+}
 
 /* Skills */
 .skill {
